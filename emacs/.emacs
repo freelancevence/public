@@ -5,6 +5,8 @@
 (setq recentf-max-menu-items 40)
 (global-set-key "\C-x\ \C-r" 'recentf-open-files)
 
+
+
 ;; #### SPEEDBAR ###
 ;; #################
 ;;(speedbar 1)
