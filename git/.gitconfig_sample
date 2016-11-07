@@ -1,0 +1,16 @@
+[user]
+	email = name.lastname@github.com
+	name = name lastname
+[color]
+	ui = auto
+[core]
+	editor = /usr/bin/vi
+[diff]
+	guitool = beyondcompare3
+[difftool "beyondcompare3"]
+	path = /usr/bin/bcompare
+[merge]
+	tool = BeyondCompare3
+[mergetool "BeyondCompare3"]
+	path = /usr/bin/bcompare
+
